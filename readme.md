@@ -1,10 +1,7 @@
 # Pitch Application
- <img src="./p.png">
 
-#### By:
-1. Joseph Nganga ; lead developer
-1. Moringa TM's ; Mentors
-1. Moringa Students ; Assistant designers
+
+
 
 # DESCRIPTION
 
@@ -56,14 +53,8 @@ Now navigate to your browser at: ```localhost:5000```
 ## Support and contact details
 call me on
 
-<img src="https://bit.ly/2H4L6UZ" width="109" style="border-radius:50%;">:0798734442
-
-<img src="https://bit.ly/383xk0Z" width="109" style="border-radius:50%;">:0778378174
- 
- <img src="https://bit.ly/2Smueyp" width="109" style="border-radius:50%;">:nungari100@gmail.com
-
 ## License
 
 [MIT License](LICENSE.md)
-Copyright (c) [2020] [Joseph Nganga]
-</a>
+Copyright (c) 
+
