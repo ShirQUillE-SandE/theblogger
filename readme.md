@@ -20,7 +20,7 @@ First clone the repo
 After cloning, navigate to the project:
    `` $ cd news-flask``
 
-Then install all the requirements through pip:
+Then install all the requirements through pip:    
    ```$ pip install -r requirements.txt ```
 
 Make the file executable:
