@@ -15,7 +15,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## setup /Installation Requirements
 First clone the repo
-   ```$ git clone  ```
+   ```$ git clone  ```      
 
 After cloning, navigate to the project:
    `` $ cd news-flask``
